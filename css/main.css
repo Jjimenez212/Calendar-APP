@@ -1,11 +1,11 @@
 body, html {
-    background: #ff3b4e;
+    background: #58020b;
     margin: 0;
     padding: 0;
 }
 
 .header {
-    background: #fff;
+    background: rgb(63, 60, 60);
     padding: 20px 0;
     text-align: center;
 }
